@@ -1,0 +1,12 @@
+# --- Web Server & API Framework ---
+fastapi==0.115.8
+uvicorn==0.34.0
+python-multipart==0.0.20
+
+# --- OCR & Machine Learning Engine ---
+paddlepaddle==3.3.0
+paddleocr==3.4.0
+
+# --- Image Processing (Usually installed automatically by PaddleOCR) ---
+opencv-python
+Pillow
